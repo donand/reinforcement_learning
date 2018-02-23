@@ -1,4 +1,4 @@
-# Udemy Reinforcement Learning
+# Reinforcement Learning
 
 In this repository I collect all the code and some notes I wrote for the following Udemy courses:
 - Artificial Intelligence: Reinforcement Learning in Python
